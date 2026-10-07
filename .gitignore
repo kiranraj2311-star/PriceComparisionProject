@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.pkl
+*.joblib
+!ml/models/*.joblib
+.vscode/
+node_modules/
+dist/
+build/
+.DS_Store
